@@ -1,13 +1,1 @@
-como crearon la base
-como crearon las tablas
-los campos que coincidan con los del DER
-se pueden adjuntar print de las tablas
 
-
-
-interfaces, captura de pantalla principal y alta de producto, estaría ok
-
-
-Repositorio123@
-
-usuario sracca21
