@@ -27,8 +27,8 @@ CREATE TABLE IF NOT EXISTS `dbLovelyModa`.`Persona` (
   `nombre` VARCHAR(45) NULL,
   `apellido` VARCHAR(45) NULL,
   `direccion` VARCHAR(45) NULL,
-  `dni` INT NULL,
-  `telefono` INT NULL,
+  `dni` DOUBLE NULL,
+  `telefono` DOUBLE NULL,
   `correo` VARCHAR(45) NULL,
   PRIMARY KEY (`idPersona`),
   UNIQUE INDEX `dni_UNIQUE` (`dni` ASC) VISIBLE)
